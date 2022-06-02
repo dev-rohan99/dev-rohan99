@@ -1,6 +1,6 @@
 ![MERN Stack Web Developer from Bangladesh](https://pbs.twimg.com/profile_banners/1404169594714001409/1654131635/600x200)
-### Hi there 👋, Hello there, I'm Rohan Mostofa
-#### MERN Stack Web Developer from Bangladesh
+## Hi there 👋, Hello there, I'm Rohan Mostofa
+### MERN Stack Web Developer from Bangladesh
 
 ![Profile views](https://gpvc.arturio.dev/rohan-mostofa)  
 
