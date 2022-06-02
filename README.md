@@ -2,6 +2,8 @@
 ### Hi there 👋, Hello there, I'm Rohan Mostofa
 #### MERN Stack Web Developer from Bangladesh
 
+![Profile views](https://gpvc.arturio.dev/rohan-mostofa)  
+
 I'm a Full-Stack Web Developer with experience creating websites and online applications in the business. I specialize in JavaScript and have worked with  MongoDB,  Express.js, React.js, and Node.js in the past. I've also worked with WordPress previously. Please have a look at my work or contact me if you have any questions.
 
 <h3 align="left">Skills: </h3>
@@ -22,5 +24,3 @@ I'm a Full-Stack Web Developer with experience creating websites and online appl
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rohan-mostofa)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rohan-mostofa)  
-
-![Profile views](https://gpvc.arturio.dev/rohan-mostofa)  
