@@ -1,7 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/rohan-mostofa)
 <img src="https://pbs.twimg.com/profile_banners/1404169594714001409/1654131635/600x200" style="width:100%;object-fit:cover;" />
-## Hi there 👋, Hello there, I'm Rohan Mostofa
-### MERN Stack Web Developer from Bangladesh
+# Hello there 👋, I'm Rohan Mostofa
+## MERN Stack Web Developer from Bangladesh
 <br>
 
 I'm a Full-Stack Web Developer with experience creating websites and online applications in the business. I specialize in JavaScript and have worked with  MongoDB,  Express.js, React.js, and Node.js in the past. I've also worked with WordPress previously. Please have a look at my work or contact me if you have any questions.
