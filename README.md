@@ -1,6 +1,5 @@
 ![Profile views](https://gpvc.arturio.dev/rohan-mostofa)
-<img src="https://pbs.twimg.com/profile_banners/1404169594714001409/1654131635/600x200" style="width:100%" />
-![MERN Stack Web Developer from Bangladesh](https://pbs.twimg.com/profile_banners/1404169594714001409/1654131635/600x200)
+<img src="https://pbs.twimg.com/profile_banners/1404169594714001409/1654131635/600x200" style="width:100%;object-fit:cover;" />
 ## Hi there 👋, Hello there, I'm Rohan Mostofa
 ### MERN Stack Web Developer from Bangladesh
 <br>
