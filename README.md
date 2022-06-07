@@ -17,8 +17,6 @@ I'm a Full-Stack Web Developer with experience creating websites and online appl
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-mostofa)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rohan-mostofa)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan-mostofa&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rohan-mostofa)  
