@@ -1,6 +1,6 @@
-![Profile views](https://gpvc.arturio.dev/rohan-mostofa)
+![Profile views](https://gpvc.arturio.dev/dev-rohan99)
 <img src="https://pbs.twimg.com/profile_banners/1404169594714001409/1654131635/600x200" style="width:100%;object-fit:cover;" />
-# Hi there, I'm Rohan Mostofa Abir, a passionate Full Stack Web Developer with 2 years plus of experience in creating dynamic and interactive web applications.
+### Hi there, I'm Rohan Mostofa Abir, a passionate Full Stack Web Developer with 2 years plus of experience in creating dynamic and interactive web applications.
 ## Full Stack Web Developer from Bangladesh
 
 Are you looking to create dynamic and interactive web applications? So look no further! As a seasoned MERN stack expert,  i specialize in crafting immersive user experiences by seamlessly integrating MongoDB, Express, React and Node. I have experience creating high-quality projects with more than 50+ global and local projects.
@@ -10,14 +10,14 @@ Are you looking to create dynamic and interactive web applications? So look no f
 ✅ Full-stack development using the MERN stack (MongoDB, Express, React, Node)
 ✅ Engaging and Intuitive User Experiences
 ✅ High-Quality Code that Ensures Performance and Security
-✅ SEO friendly web & web application
-✅ Custom web application development from scratch
-✅ Responsive and mobile-friendly designs
-✅ API integrations and third-party services
-✅ Database design and optimization
-✅ Front-end and back-end development
-✅ Bug fixing, troubleshooting, and performance optimization
-✅ Deployment and server configuration
+✅ SEO friendly web & web application 
+✅ Custom web application development from scratch 
+✅ Responsive and mobile-friendly designs 
+✅ API integrations and third-party services 
+✅ Database design and optimization 
+✅ Front-end and back-end development 
+✅ Bug fixing, troubleshooting, and performance optimization 
+✅ Deployment and server configuration 
 
 🎯 My Expertise:
 ✅ Front-end: HTML, CSS, JavaScript, React, Vue, Redux, Material-UI, Tailwind & Bootstrap
@@ -43,9 +43,7 @@ Let's collaborate and bring your dreams today!
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dev-rohan99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/developer-rohan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/DeveloperRohan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/developer_rohan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/DeveloperRohan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://rohanmostofa.com/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rohan99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-rohan99&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rohan99&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dev-rohan99)
 
