@@ -6,7 +6,7 @@ Hi there, I'm Rohan Mostofa Abir, a passionate Full Stack Web Developer with 2 y
 
 Are you looking to create dynamic and interactive web applications? So look no further! As a seasoned MERN stack expert,  i specialize in crafting immersive user experiences by seamlessly integrating MongoDB, Express, React and Node. I have experience creating high-quality projects with more than 50+ global and local projects.
 
-###🎯 My Services: <br>
+### 🎯 My Services: <br>
 ✅ Seamless Integration of MongoDB, Express, React, Next, Vue, Nest and Node <br>
 ✅ Full-stack development using the MERN stack (MongoDB, Express, React, Node) <br>
 ✅ Engaging and Intuitive User Experiences  <br>
@@ -20,13 +20,13 @@ Are you looking to create dynamic and interactive web applications? So look no f
 ✅ Bug fixing, troubleshooting, and performance optimization <br>
 ✅ Deployment and server configuration <br>
 
-###🎯 My Expertise: <br>
+### 🎯 My Expertise: <br>
 ✅ Front-end: HTML, CSS, JavaScript, React, Vue, Redux, Material-UI, Tailwind & Bootstrap <br>
 ✅ Back-end: Node.js, Nest.js, Express.js, MongoDB, Mongoose, RESTful APIs <br>
 ✅ Database: MongoDB, PostgreSQL <br>
 ✅ Deployment: Heroku, AWS, Netlify, Vercel <br>
 
-###🎯 Why Choose Me: <br>
+### 🎯 Why Choose Me: <br>
 🌟 Extensive Experience: I have several years of experience in web development, successfully delivering numerous projects for clients worldwide. <br>
 🌟 MERN Stack Specialist: I specialize in the MERN stack, allowing me to build robust and scalable web applications with a seamless user experience. <br>
 🌟 Attention to Detail: I pay close attention to every aspect of the development process, ensuring pixel-perfect designs, clean code, and optimal performance. <br>
