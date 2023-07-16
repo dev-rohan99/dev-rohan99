@@ -6,32 +6,32 @@ Hi there, I'm Rohan Mostofa Abir, a passionate Full Stack Web Developer with 2 y
 
 Are you looking to create dynamic and interactive web applications? So look no further! As a seasoned MERN stack expert,  i specialize in crafting immersive user experiences by seamlessly integrating MongoDB, Express, React and Node. I have experience creating high-quality projects with more than 50+ global and local projects.
 
-🎯 My Services:
-✅ Seamless Integration of MongoDB, Express, React, Next, Vue, Nest and Node
+###🎯 My Services: <br>
+✅ Seamless Integration of MongoDB, Express, React, Next, Vue, Nest and Node <br>
 ✅ Full-stack development using the MERN stack (MongoDB, Express, React, Node) <br>
 ✅ Engaging and Intuitive User Experiences  <br>
-✅ High-Quality Code that Ensures Performance and Security
-✅ SEO friendly web & web application 
-✅ Custom web application development from scratch 
-✅ Responsive and mobile-friendly designs 
-✅ API integrations and third-party services 
-✅ Database design and optimization 
-✅ Front-end and back-end development 
-✅ Bug fixing, troubleshooting, and performance optimization 
-✅ Deployment and server configuration 
+✅ High-Quality Code that Ensures Performance and Security <br>
+✅ SEO friendly web & web application <br>
+✅ Custom web application development from scratch <br>
+✅ Responsive and mobile-friendly designs <br>
+✅ API integrations and third-party services <br>
+✅ Database design and optimization <br>
+✅ Front-end and back-end development <br>
+✅ Bug fixing, troubleshooting, and performance optimization <br>
+✅ Deployment and server configuration <br>
 
-🎯 My Expertise:
-✅ Front-end: HTML, CSS, JavaScript, React, Vue, Redux, Material-UI, Tailwind & Bootstrap
-✅ Back-end: Node.js, Nest.js, Express.js, MongoDB, Mongoose, RESTful APIs
-✅ Database: MongoDB, PostgreSQL
-✅ Deployment: Heroku, AWS, Netlify, Vercel
+###🎯 My Expertise: <br>
+✅ Front-end: HTML, CSS, JavaScript, React, Vue, Redux, Material-UI, Tailwind & Bootstrap <br>
+✅ Back-end: Node.js, Nest.js, Express.js, MongoDB, Mongoose, RESTful APIs <br>
+✅ Database: MongoDB, PostgreSQL <br>
+✅ Deployment: Heroku, AWS, Netlify, Vercel <br>
 
-🎯 Why Choose Me:
-🌟 Extensive Experience: I have several years of experience in web development, successfully delivering numerous projects for clients worldwide.
-🌟 MERN Stack Specialist: I specialize in the MERN stack, allowing me to build robust and scalable web applications with a seamless user experience.
-🌟 Attention to Detail: I pay close attention to every aspect of the development process, ensuring pixel-perfect designs, clean code, and optimal performance.
-🌟 Effective Communication: I believe in clear and transparent communication with my clients, providing regular updates and actively involving them in the development process.
-🌟 Client Satisfaction: My ultimate goal is to deliver high-quality work that exceeds your expectations. I am dedicated to ensuring your satisfaction throughout the project.
+###🎯 Why Choose Me: <br>
+🌟 Extensive Experience: I have several years of experience in web development, successfully delivering numerous projects for clients worldwide. <br>
+🌟 MERN Stack Specialist: I specialize in the MERN stack, allowing me to build robust and scalable web applications with a seamless user experience. <br>
+🌟 Attention to Detail: I pay close attention to every aspect of the development process, ensuring pixel-perfect designs, clean code, and optimal performance. <br>
+🌟 Effective Communication: I believe in clear and transparent communication with my clients, providing regular updates and actively involving them in the development process. <br>
+🌟 Client Satisfaction: My ultimate goal is to deliver high-quality work that exceeds your expectations. I am dedicated to ensuring your satisfaction throughout the project. <br>
 
 Let's collaborate and bring your dreams today!
 
