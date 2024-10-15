@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/dev-rohan99)
+![Profile views](https://komarev.com/ghpvc/?username=dev-rohan99)
 <img src="https://media.licdn.com/dms/image/v2/D5616AQFu7EJJkaHvQA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1694094760547?e=2147483647&v=beta&t=kcBp-tgkJCW1wT6YjoCeVDP94qfb_xiauvJ0Cb80vyA" style="width:100%;object-fit:cover;" />
 
 ## Full Stack Web Developer from Bangladesh
