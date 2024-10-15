@@ -21,10 +21,10 @@ Are you looking to create dynamic and interactive web applications? So look no f
 ✅ Deployment and server configuration <br>
 
 ### 🎯 My Expertise:
-✅ Front-end: HTML, CSS, JavaScript, React, Vue, Redux, Material-UI, Tailwind & Bootstrap <br>
+✅ Front-end: HTML, CSS, JavaScript, React, Vue, React Native, Redux, Material-UI, Tailwind & Bootstrap <br>
 ✅ Back-end: Node.js, Nest.js, Express.js, MongoDB, Mongoose, RESTful APIs <br>
 ✅ Database: MongoDB, PostgreSQL <br>
-✅ Deployment: Heroku, AWS, Netlify, Vercel <br>
+✅ Deployment: Heroku, AWS, Netlify, Vercel, Digital Ocean <br>
 
 Let's collaborate and bring your dreams today!
 
