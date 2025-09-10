@@ -1,7 +1,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=dev-rohan99)
 <img src="https://media.licdn.com/dms/image/v2/D5616AQFu7EJJkaHvQA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1694094760547?e=2147483647&v=beta&t=kcBp-tgkJCW1wT6YjoCeVDP94qfb_xiauvJ0Cb80vyA" style="width:100%;object-fit:cover;" />
 
-## Full Stack Web Developer from Bangladesh
+## Full Stack Developer
 Hi there, I'm Rohan Mostofa Abir, a passionate Full Stack Web Developer with 2 years plus of experience in creating dynamic and interactive web applications.
 
 Are you looking to create dynamic and interactive web applications? So look no further! As a seasoned MERN stack expert,  i specialize in crafting immersive user experiences by seamlessly integrating MongoDB, Express, React and Node. I have experience creating high-quality projects with more than 50+ global and local projects.
