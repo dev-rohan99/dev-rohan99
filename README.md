@@ -1,7 +1,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=dev-rohan99)
 <img src="https://media.licdn.com/dms/image/v2/D5616AQFu7EJJkaHvQA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1694094760547?e=2147483647&v=beta&t=kcBp-tgkJCW1wT6YjoCeVDP94qfb_xiauvJ0Cb80vyA" style="width:100%;object-fit:cover;" />
 
-## Helping Startups & Businesses Automate & Scale with AI-Driven Solutions | Full-Stack Developer & AI Automation Engineer | 3.5 + yrs | 100 + Projects | Next.js, React Native, MERN, n8n & AWS | Building Scalable & AI-Integrated Apps
+## Full-Stack Developer & AI Automation Engineer | Helping Startups & Teams Automate, Scale & Ship Faster | 4 yrs | 100+ Projects | MERN, Next.js, React Native, Python, DevOps, n8n, AWS
 
 Helping Startups & Businesses Automate & Scale with AI-Driven Solutions | 100+ Websites, Backend API, Web & Mobile Apps | AI Automation & AI Integration Expert | Full Stack Development | MERN Stack | Next.js | React.js | Node.js | Express | MongoDB | DevOps | AWS | MySQL | Prisma | Zapier | n8n | OpenAI | Web Design | WordPress Development
 
