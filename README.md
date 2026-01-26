@@ -13,7 +13,7 @@ And over the past 4+ years, I have built 100+ web & mobile solutions using React
 
 ⦿ What I Do Best:
 
-✔ Full Stack Development: MERN Stack, Next.js, React.js, Node.js, Express.js, MongoDB, MySQL, Prisma, Wordpress
+✔ Full Stack Development: MERN Stack, Next.js, React.js, Node.js, Express.js, MongoDB, MySQL, Prisma, Wordpress <br>
 ✔ Mobile Apps: React Native (iOS & Android), Redux, Expo, Firebase, API Integrations
 ✔ Automation Flows: Zapier, n8n, API integrations, AI workflows (voiceover, video generation, affirmation content flows)
 ✔ AI Integration: OpenAI API, AI-powered features, custom API development
