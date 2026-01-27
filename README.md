@@ -1,5 +1,5 @@
 ![Profile views](https://komarev.com/ghpvc/?username=dev-rohan99)
-<img src="https://media.licdn.com/dms/image/v2/D5616AQFu7EJJkaHvQA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1694094760547?e=2147483647&v=beta&t=kcBp-tgkJCW1wT6YjoCeVDP94qfb_xiauvJ0Cb80vyA" style="width:100%;object-fit:cover;" />
+<img src="https://res.cloudinary.com/dygwosh4a/image/upload/v1769480883/1762336035135_w6rkkz.jpg" style="width:100%;object-fit:cover;" />
 
 ## Full-Stack Developer & AI Automation Engineer | Helping Startups & Teams Automate, Scale & Ship Faster | 4 yrs | 100+ Projects | MERN, Next.js, React Native, Python, DevOps, n8n, AWS
 
@@ -27,21 +27,19 @@ And over the past 4+ years, I have built 100+ web & mobile solutions using React
 
 Some Wins:
 
-✔ Built & automated AI content creation pipelines for Rehabit.us (video, audio, voiceover generation)
-✔ Created custom automation flows for HidayahSoft with Zapier & n8n
-✔ Delivered multiple Full Stack Development & MERN stack web apps from concept to deployment in weeks, not months
+✔ Built & automated AI content creation pipelines for Rehabit.us (video, audio, voiceover generation) <br>
+✔ Created custom automation flows for HidayahSoft with Zapier & n8n <br>
+✔ Delivered multiple Full Stack Development & MERN stack web apps from concept to deployment in weeks, not months <br>
 
 If you need a developer who's also a problem-solver, automation builder, and speed optimizer, I am here to make it happen.
 
-So let's talk:
-What's the single most important feature you want launched first?
+Let's have a chat!
 
 Thanks
 Rohan Mostofa
 
-- 🔭 I’m currently working on Upwork, Freelancer, Guru, PeoplePerHour & Fiverr 
-- 🌱 I’m currently learning PHP, Vuejs, Nestjs & React Native
-- 👯 I’m looking to collaborate on GitHub
+- 🔭 I'm currently working on Upwork, Freelancer, Guru, PeoplePerHour & Fiverr 
+- 🌱 I'm currently learning System Design, Go & React Native
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dev-rohan99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/developer-rohan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/DeveloperRohan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/developer_rohan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/DeveloperRohan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://rohanmostofa.com/)  
 
